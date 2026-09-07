@@ -18,4 +18,4 @@ Full-stack developer specializing in building scalable web applications and real
 * **AI & Document Management (StudySuite):** Integrated LLMs (Google Gemini API) into document processing systems for automated text extraction and chat interactions.
 * **E-Commerce Application:** Developed a full-stack platform with authentication, cart state management, and checkout flows — <a href="https://ecommerce-nextjs-1.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>.
 
-📫 **Connect with me:** <a href="https://www.linkedin.com/in/behram-bakht-khan" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="mailto:behrambakhtkhan@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
+📫 **Connect with me:** <a href="https://www.linkedin.com/in/behram-bakht-khan" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="mailto:behrambakhtkhan22@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
