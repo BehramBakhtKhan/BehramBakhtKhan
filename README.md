@@ -1,12 +1,12 @@
 # Hi there, I'm `Behram Bakht Khan`
 
-Full-stack developer specializing in building scalable web applications and real-time backend systems using the **MERN** and **PERN** stacks.
+Full-stack developer specializing in building scalable web applications using the **MERN** and **PERN** stacks.
 
 ### `Tech Stack`
-* **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Zustand
+* **Frontend:** HTML5, CSS3, JavaScript, Next.js, React, TypeScript, Tailwind CSS, Zustand
 * **Backend:** Node.js, Express, PostgreSQL, MongoDB, Prisma, Mongoose, Redis, BullMQ
 * **Authentication & Security:** JWT, OAuth, NextAuth / Auth.js, Session Management
-* **DevOps & Testing:** Docker, Docker Compose, Linux (WSL2), Jest, Git
+* **DevOps & Testing:** Docker, Docker Compose, Linux (WSL2), Jest, Git, Bash Scripting
 
 ### `What I'm Focused On`
 * Architecting full-stack applications with **Next.js**, **MERN**, and **PERN** stack solutions.
