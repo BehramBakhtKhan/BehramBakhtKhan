@@ -6,7 +6,8 @@ Full-stack developer specializing in building scalable web applications using th
 * **Frontend:** HTML5, CSS3, JavaScript, Next.js, React, TypeScript, Tailwind CSS, Zustand
 * **Backend:** Node.js, Express, PostgreSQL, MongoDB, Prisma, Mongoose, Redis, BullMQ
 * **Authentication & Security:** JWT, OAuth, NextAuth / Auth.js, Session Management
-* **DevOps & Testing:** Docker, Docker Compose, Linux (WSL2), Jest, Git, Bash Scripting
+* **DevOps & Testing:**  Docker, DockerCompose, CI(GitHubActions), Jest (Unit & Integration Testing), Git,
+Postman, Cloudinary, Stripe, Linux(Ubuntu), Bash Scriptin
 
 ### `What I'm Focused On`
 * Architecting full-stack applications with **Next.js**, **MERN**, and **PERN** stack solutions.
