@@ -1,6 +1,9 @@
 # Hi there, I'm `Behram Bakht Khan`
 
-Full-stack developer specializing in building scalable web applications using the **MERN** and **PERN** stacks.
+Full-stack software engineering student specializing in building scalable web applications with the **MERN** and
+**PERN** stacks. Hands-on experience developing RESTful APIs, type-safe database schemas, and AI-powered doc
+ument processing features using Next.js and Google Gemini API. Dedicated to writing clean, maintainable code,
+optimizing performance with caching, and containerizing workflows with Docker
 
 ### `Tech Stack`
 * **Frontend:** HTML5, CSS3, JavaScript, Next.js, React, TypeScript, Tailwind CSS, Zustand
